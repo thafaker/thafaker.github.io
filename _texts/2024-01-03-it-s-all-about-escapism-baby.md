@@ -7,8 +7,6 @@ Layout: blog
 
 Und dann ertappe ich mich dabei, wie ich mir ein bürgerliches Leben wünsche, wie ich die Ruhe und Geborgenheit, wie ich diese Ausgeglichenheit ganz sicher sehr tief in mir, absolut positiv sppüren werde, dadurch gesunde (Gesunden im Sinne von heilen), Kraft und Energie sammle und mich um irdische Dinge kümmern kann. [--more--]
 
-<article>
-	<section>	
 		<p>Doch dann knallt der <strong>Eskapismus</strong> <label for="sn-eskapismus" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-eskapismus" class="margin-toggle"/><span class="sidenote">Eskapismus in der Lesart von Realitätsflucht, Wirklichkeitsflucht oder Weltflucht: bezeichnet die Flucht aus oder vor der realen Welt und das Meiden derselben mit ihren Anforderungen zugunsten einer Scheinwirklichkeit, d. h. imaginären oder möglichen besseren Wirklichkeit. (<a href="https://de.wikipedia.org/wiki/Eskapismus">Quelle</a>)</span> durch meine Windungen, alles in mir sträubt sich vor einer <em>Bürgerlichkeit</em> und will eigentlich sofort in einem nicht enden wollenden Drogenrausch durch die Nacht, den Tag und das Universum gleiten - und am liebsten einfach verglühen. <em>But Why?</em> Jeder weiß dass man Drogenrausch und Alkoholkonsum, dass man diesen Tanz auf dem Drahtseil, diese Wucht und die Feier des Untergangs, dass man dies nur eine gewisse und kurze, kleine Zeit also haben kann. Und haben sollte… </p>
 		<blockquote>
 			<em>Es tut uns nicht gut</em>!
@@ -30,5 +28,3 @@ Und dann ertappe ich mich dabei, wie ich mir ein bürgerliches Leben wünsche, w
 			<p>Und es ist alles so kurz gedacht. Niemand will Probleme lösen, aber sich auslassen, meckern und den Untergang tanzen. Es ist so unerträglich. Man wird müde. <br />
 				Ein weiterer Grund also für gepflegten Eskapismus. Aufgrund dieser Unerträglichkeit der Welt kann es wohl niemand verübeln, will man sich die Lichter auszuschalten um nicht mehr denken zu müssen.
 	</p>	
-	</section>
-</article>
