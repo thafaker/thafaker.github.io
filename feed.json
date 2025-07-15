@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "thahipster test or thafaker",
+    "title": "thahipster.de",
     "description": "",
     "home_page_url": "https://thafaker.github.io",
     "feed_url": "https://thafaker.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://thafaker.github.io/media/website/36gel4ff.bmp",
     "author": {
         "name": "Herr Montag"
     },

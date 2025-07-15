@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://thafaker.github.io/sitemap.xml
+Disallow: /
