@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pictures on Monsieur Lundi 🌙</title>
+    <link>http://localhost:1313/tags/pictures/</link>
+    <description>Recent content in Pictures on Monsieur Lundi 🌙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <managingEditor>hallo@herrmontag.de (Jan montag)</managingEditor>
+    <webMaster>hallo@herrmontag.de (Jan montag)</webMaster>
+    <copyright>Jan Montag (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 10 Nov 2023 17:05:37 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freitag, 10. November 2023, 17:05</title>
+      <link>http://localhost:1313/blog/2023-11-10-friday-10-11-23-17-05/</link>
+      <pubDate>Fri, 10 Nov 2023 17:05:37 +0100</pubDate><author>hallo@herrmontag.de (Jan montag)</author>
+      <guid>http://localhost:1313/blog/2023-11-10-friday-10-11-23-17-05/</guid>
+      <description>Stegway to heaven&#xA;#pictures #italiandays2023</description>
+      <content:encoded><![CDATA[<p>Stegway to heaven</p>
+<p><img alt="Bild 1" src="https://janmontag.de/img/bluesky_8282efe3_1.jpg"></p>
+<p>#pictures #italiandays2023</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Freitag, 10. November 2023, 07:35</title>
+      <link>http://localhost:1313/blog/2023-11-10-friday-10-11-23-07-35/</link>
+      <pubDate>Fri, 10 Nov 2023 07:35:54 +0100</pubDate><author>hallo@herrmontag.de (Jan montag)</author>
+      <guid>http://localhost:1313/blog/2023-11-10-friday-10-11-23-07-35/</guid>
+      <description>Wie das schon etwas ins Jahr gekommene Morgenlicht&#xA;ganz sacht seine Stadt wach küsst;&#xA;Das Yak in der Tundra und der Raureif wachsen&#xA;#lyrik #pictures</description>
+      <content:encoded><![CDATA[<p>Wie das schon etwas ins Jahr gekommene Morgenlicht<br>
+ganz sacht seine Stadt wach küsst;<br>
+Das Yak in der Tundra und der Raureif wachsen</p>
+<p><img alt="Bild 1" src="https://janmontag.de/img/bluesky_3f001bc3_1.jpg"></p>
+<p>#lyrik #pictures</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

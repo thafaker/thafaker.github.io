@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" />
+<title>Hallo | Monsieur Lundi 🌙</title>
+<meta name="title" content="Hallo" />
+<meta name="description" content="Texas-Jim beschreibt, dass er heute einen Fehler mithilfe eines Chatbots korrigieren konnte.
+Der Autor beschreibt hier eine persönliche Lernerfahrung bei der mathematischen Modellierung einer Asynchronmaschine (einem elektrischen Motor). Wir zerlegen das:
+1. Das technische Problem: Bei der Modellierung solcher Maschinen teilt man die Induktivitäten (eine elektromagnetische Eigenschaft) auf: sowohl für den feststehenden Teil (Stator) als auch für den rotierenden Teil (Rotor) gibt es jeweils eine Hauptinduktivität und eine Streuinduktivität.
+In der dynamischen Modellierung (für Simulationsrechnungen) fasst man diese mathematisch anders zusammen: Die Gesamtinduktivität ist einfach die Summe aus Haupt- und Streuinduktivität." />
+<meta name="author" content="Jan Montag" />
+<meta name="keywords" content="mikrobi," />
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="Hallo" />
+<meta property="og:description" content="Texas-Jim beschreibt, dass er heute einen Fehler mithilfe eines Chatbots korrigieren konnte.
+Der Autor beschreibt hier eine persönliche Lernerfahrung bei der mathematischen Modellierung einer Asynchronmaschine (einem elektrischen Motor). Wir zerlegen das:
+1. Das technische Problem: Bei der Modellierung solcher Maschinen teilt man die Induktivitäten (eine elektromagnetische Eigenschaft) auf: sowohl für den feststehenden Teil (Stator) als auch für den rotierenden Teil (Rotor) gibt es jeweils eine Hauptinduktivität und eine Streuinduktivität.
+In der dynamischen Modellierung (für Simulationsrechnungen) fasst man diese mathematisch anders zusammen: Die Gesamtinduktivität ist einfach die Summe aus Haupt- und Streuinduktivität." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/blog/2025-12-04-hallo/" />
+
+<meta property="og:image" content="http://localhost:1313/images/social_card_bg_hu24b6b25ef60ca259d3d1b88ebbfdfb28_6698_74893d49e30fb023a43ccaed7ff36515.webp"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2025-12-04T18:44:48+01:00" />
+<meta property="article:modified_time" content="2025-12-04T18:44:48+01:00" /><meta property="og:site_name" content="Monsieur Lundi 🌙" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://localhost:1313/images/social_card_bg_hu24b6b25ef60ca259d3d1b88ebbfdfb28_6698_74893d49e30fb023a43ccaed7ff36515.webp"/>
+<meta name="twitter:title" content="Hallo"/>
+<meta name="twitter:description" content="Texas-Jim beschreibt, dass er heute einen Fehler mithilfe eines Chatbots korrigieren konnte.
+Der Autor beschreibt hier eine persönliche Lernerfahrung bei der mathematischen Modellierung einer Asynchronmaschine (einem elektrischen Motor). Wir zerlegen das:
+1. Das technische Problem: Bei der Modellierung solcher Maschinen teilt man die Induktivitäten (eine elektromagnetische Eigenschaft) auf: sowohl für den feststehenden Teil (Stator) als auch für den rotierenden Teil (Rotor) gibt es jeweils eine Hauptinduktivität und eine Streuinduktivität.
+In der dynamischen Modellierung (für Simulationsrechnungen) fasst man diese mathematisch anders zusammen: Die Gesamtinduktivität ist einfach die Summe aus Haupt- und Streuinduktivität."/>
+
+
+
+<meta itemprop="name" content="Hallo">
+<meta itemprop="description" content="Texas-Jim beschreibt, dass er heute einen Fehler mithilfe eines Chatbots korrigieren konnte.
+Der Autor beschreibt hier eine persönliche Lernerfahrung bei der mathematischen Modellierung einer Asynchronmaschine (einem elektrischen Motor). Wir zerlegen das:
+1. Das technische Problem: Bei der Modellierung solcher Maschinen teilt man die Induktivitäten (eine elektromagnetische Eigenschaft) auf: sowohl für den feststehenden Teil (Stator) als auch für den rotierenden Teil (Rotor) gibt es jeweils eine Hauptinduktivität und eine Streuinduktivität.
+In der dynamischen Modellierung (für Simulationsrechnungen) fasst man diese mathematisch anders zusammen: Die Gesamtinduktivität ist einfach die Summe aus Haupt- und Streuinduktivität."><meta itemprop="datePublished" content="2025-12-04T18:44:48+01:00" />
+<meta itemprop="dateModified" content="2025-12-04T18:44:48+01:00" />
+<meta itemprop="wordCount" content="376">
+
+<meta itemprop="image" content="http://localhost:1313/images/social_card_bg_hu24b6b25ef60ca259d3d1b88ebbfdfb28_6698_74893d49e30fb023a43ccaed7ff36515.webp"/>
+
+
+<meta itemprop="keywords" content="mikrobi," />
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  
+  <link href="/herman.min.css" rel="stylesheet">
+
+  
+
+  
+
+  
+</head>
+
+<body>
+  <header><a class="skip-link" href="#main-content">Zum Hauptinhalt</a>
+
+<a href="/" class="title"><h1>Monsieur Lundi 🌙</h1></a>
+<nav>
+  <a href="/">Home</a>
+
+  <a href="/blog/">Blog</a>
+
+<a href='http://localhost:1313/index.xml'>RSS</a>
+
+
+
+
+
+
+
+  
+    
+    
+      <a class="disabled" role="link" aria-disabled="true">en-US 🇺🇸</a>
+    
+  
+
+  
+    
+    
+      <a class="disabled" role="link" aria-disabled="true">pt-BR 🇧🇷</a>
+    
+  
+
+</nav>
+</header>
+  <main id="main-content">
+
+<h1>Hallo</h1>
+<p class="byline">
+  <time datetime='2025-12-04' pubdate>
+    2025-12-04
+  </time>
+  · Jan Montag
+</p>
+
+<content>
+  <p><strong>Texas-Jim</strong> <a href="https://mikrobi.libralop.de/ich-habe-heute-einen-fehler-meinerseits-mithilfe-eines-chatb">beschreibt</a>, dass er heute einen Fehler mithilfe eines Chatbots korrigieren konnte.</p>
+<p>Der Autor beschreibt hier eine persönliche Lernerfahrung bei der mathematischen Modellierung einer Asynchronmaschine (einem elektrischen Motor). Wir zerlegen das:</p>
+<h3 id="1-das-technische-problem">1. Das technische Problem:</h3>
+<p>Bei der Modellierung solcher Maschinen teilt man die Induktivitäten (eine elektromagnetische Eigenschaft) auf: sowohl für den feststehenden Teil (Stator) als auch für den rotierenden Teil (Rotor) gibt es jeweils eine Hauptinduktivität und eine Streuinduktivität.</p>
+<p>In der dynamischen Modellierung (für Simulationsrechnungen) fasst man diese mathematisch anders zusammen: Die Gesamtinduktivität ist einfach die Summe aus Haupt- und Streuinduktivität.</p>
+<p>Der Fehler des Autors: Er hat die Indizes (die kleinen tiefgestellten Zahlen/Buchstaben, die z.B. &ldquo;1&rdquo; für Stator oder &ldquo;σ1&rdquo; für die Streuung im Stator stehen) verwechselt. Konkret hat er fälschlicherweise angenommen, die &ldquo;1&rdquo; für den Stator sei dasselbe wie &ldquo;σ1&rdquo; für die Streuung im Stator. Das sind aber zwei verschiedene Größen.</p>
+<h3 id="2-die-konsequenz">2. Die Konsequenz:</h3>
+<p>Dieser kleine Indexfehler führte zu einem falschen Modell. In der Simulation begann die virtuelle Maschine extrem zu &ldquo;schwingen&rdquo; (instabiles, unphysikalisches Verhalten), sodass jede Simulation abstürzte.</p>
+<p>Die Fehlersuche war sehr zeitaufwändig. Es verbrauchte viel Rechenleistung (Energie in den Rechenzentren) und geistige Energie des Autors.</p>
+<h3 id="3-die-emotionalemenschliche-aussage">3. Die emotionale/menschliche Aussage:</h3>
+<p>Hier spricht der Autor metaphorisch und persönlich:</p>
+<ul>
+<li>&ldquo;Glück der Erkenntnis&rdquo;: Die Erleichterung und Freude, den Fehler endlich gefunden und verstanden zu haben.</li>
+<li>&ldquo;Scham ob der eigenen Doofizität&rdquo;: Die Frustration und Selbstkritik über den eigentlich simplen Fehler (eine Indexverwechslung), der so große Folgen hatte.</li>
+<li>&ldquo;Zum Glück schwingt auch dieses Verhältnis, und ich genieße die positiven Amplituden&rdquo;: Eine kluge Metapher.</li>
+</ul>
+<p>Genau wie die Maschine in der Simulation schwingt, schwingt auch sein emotionaler Zustand zwischen Frustration (&ldquo;negative Amplituden&rdquo;) und Freude/Erleichterung (&ldquo;positive Amplituden&rdquo;). Er konzentriert sich jetzt bewusst auf das Positive – die gelöste Aufgabe und die gewonnene Einsicht.</p>
+<h4 id="zusammengefasst-meint-der-autor">Zusammengefasst meint der Autor:</h4>
+<p>Auch kleine, scheinbar dumme Fehler (hier eine falsche Index-Zuordnung) können in der technischen Modellierung enorme Auswirkungen haben und lange unentdeckt bleiben. Der Prozess des Suchens ist mühsam und ressourcenintensiv, aber die letztendliche Lösung bringt ein starkes Gefühl der Befriedigung. Er akzeptiert, dass solche Erfahrungen aus Höhen und Tiefen bestehen, und genießt nun den erfolgreichen Ausgang. Das Schwingen seines Textes, Schwingung des Stromkreises, Schwingung seines Gemüts - <em>deep</em>!</p>
+<p>Es ist also eine Mischung aus technischer Fallstudie und einer reflektierenden Anekdote über die Tücken der Ingenieursarbeit.</p>
+<p>#mikrobi</p>
+
+</content>
+<p>
+  
+    <a class="blog-tags" href="/tags/mikrobi/">#mikrobi</a>
+  
+</p>
+
+
+  <p>
+    <a href='mailto:hallo@herrmontag.de?subject=Antwort%20auf%20"Hallo"'>
+      Auf diesen Beitrag per Email antworten  ↪
+    </a>
+  </p>
+
+
+
+  </main>
+  <footer><small>
+  Jan Montag (CC BY 4.0) | Gebaut mit <a href="https://github.com/clente/hugo-bearcub">Bear Cub</a>
+</small></footer>
+
+    
+</body>
+
+</html>
