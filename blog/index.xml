@@ -59,6 +59,39 @@ Wir entfliehen hier übrigens auch, weil es zu kalt ist. Was mich tierisch nervt
 ]]></content:encoded>
     </item>
     <item>
+      <title>Pages CMS</title>
+      <link>http://localhost:1313/blog/2025-12-31-pages-cms/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate><author>hallo@herrmontag.de (Jan montag)</author>
+      <guid>http://localhost:1313/blog/2025-12-31-pages-cms/</guid>
+      <description>Wow. Ich bin gespannt, wie das funktioniert. Noch bin ich nicht so richtig zufrieden. Kann man hier auch einstellen, dass er Bilder direkt in den Artikel hoch lädt, zum Beispiel? Damit wäre uns schon mal geholfen.&#xA;Eine Tabelle:&#xA;1 2 3 - OMG LOL - MAO ROFL Nervt ein wenig, das alles funktionieren nicht richtig. Einen funktionierenden Workflow stelle ich mir anders vor. Ich glaube, Github Pages für sich häufigändernde Weblogs sind keine so gute Idee.</description>
+      <content:encoded><![CDATA[<p>Wow. Ich bin <strong>gespannt</strong>, wie das <em>funktioniert</em>. Noch bin ich nicht so richtig zufrieden. Kann man hier auch einstellen, dass er Bilder direkt in den Artikel hoch lädt, zum Beispiel? Damit wäre uns schon mal geholfen.</p>
+<p><img alt="Screenshot of Pages CMS of my Website." src="/img/tst.png"></p>
+<p><strong>Eine Tabelle</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-</td>
+<td>OMG</td>
+<td>LOL</td>
+</tr>
+<tr>
+<td>-</td>
+<td>MAO</td>
+<td>ROFL</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nervt ein wenig</strong>, das alles funktionieren nicht richtig. Einen funktionierenden Workflow stelle ich mir anders vor. Ich glaube, Github Pages für sich häufigändernde Weblogs sind keine so gute Idee.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>hallo@herrmontag.de (Jan montag)</author>
